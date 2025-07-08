@@ -1,7 +1,7 @@
 # Test
 testing
 
-[Your Link Here] (google.com)
+[Your Link Here] ((https://www.google.com/?safe=active&ssui=on)
 
 
 
